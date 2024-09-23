@@ -1,1 +1,2 @@
 # Shor-Algorithm
+This repository contains the implementation of a generalized version of Shor's algorithm. Shor's algorithm is a quantum algorithm for integer factorization, which forms the foundation of quantum cryptanalysis by exploiting the periodicity of functions to factorize large numbers efficiently. This generalized version extends to the implementation of circuits with a number of qubits of the order of bits of the number to be factored, and only applies to numbers with only two prime factors.
